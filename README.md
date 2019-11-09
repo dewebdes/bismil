@@ -19,3 +19,5 @@ sudo ./rsv
 <img src="https://raw.githubusercontent.com/dewebdes/bismil/master/2.jpeg">
 <hr>
 <h2><a href="https://www.linkedin.com/posts/kaveh-eyni-08060b59_protection-reverseengineering-snort-activity-6594048815320436736-WtVH">How to Prevent Reverse Shell?</a></h2>
+<hr>
+<h2><a href="https://www.linkedin.com/posts/kaveh-eyni-08060b59_viruses-exploitation-pictures-activity-6598750617307619328-g2Ke">Hide EXE Behind Image</a></h2>
